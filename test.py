@@ -1,4 +1,5 @@
 print("hello")
+print("world!")
 num1 = 5
 num2 = 2
 sum = 0
